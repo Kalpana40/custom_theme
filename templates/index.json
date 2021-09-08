@@ -30,7 +30,7 @@
         "image": "shopify:\/\/shop_images\/model-laughs-barefoot.jpg",
         "image_2": "shopify:\/\/shop_images\/model-in-neutral-colors-by-window.jpg",
         "adapt_height_first_image": false,
-        "desktop_text_box_position": "flex-start",
+        "desktop_text_box_position": "flex-end",
         "show_text_box": true,
         "image_overlay_opacity": 10,
         "color_scheme": "none",
